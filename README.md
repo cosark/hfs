@@ -12,6 +12,7 @@
 - [How does it work](#how-does-it-work)
 - [Features](#features)
 - [Installation](#installation)
+- [One-Click Deploy](#one-click-deploy)
 - [Configuration](#configuration)
 - [Internationalization](#internationalization)
 - [Hidden features](#hidden-features)
@@ -111,6 +112,10 @@ The `@latest` part is optional, and ensures that you are always up to date.
 If this procedure fails, it may be that you are missing one of [these requirements](https://github.com/nodejs/node-gyp#installation).
 
 Configuration and other files will be stored in `%HOME%/.vfs`
+
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/HFS/)
 
 ## Configuration
 
